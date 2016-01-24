@@ -1,5 +1,6 @@
 # LSTuit
 Simple multithreaded chat for the Advanced Programming course
+[Project Documentation](LSTuit_Documentation_ES.pdf)
 
 #### Compile
 
